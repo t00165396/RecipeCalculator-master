@@ -1,0 +1,24 @@
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator.tests\obj\Debug\RecipeCalculator.tests.csprojResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator.tests\obj\Debug\Recipe Calculator.tests.dll
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator.tests\obj\Debug\Recipe Calculator.tests.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator.tests\bin\Debug\Recipe Calculator.tests.dll
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator.tests\bin\Debug\Recipe Calculator.tests.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator.tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator.tests\bin\Debug\Recipe Calculator.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator.tests\bin\Debug\Recipe Calculator.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\RecipeCalculator\RecipeCalculator.tests\bin\Debug\Recipe Calculator.tests.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\RecipeCalculator\RecipeCalculator.tests\bin\Debug\Recipe Calculator.tests.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\RecipeCalculator\RecipeCalculator.tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\RecipeCalculator\RecipeCalculator.tests\bin\Debug\Recipe Calculator.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\RecipeCalculator\RecipeCalculator.tests\bin\Debug\Recipe Calculator.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\RecipeCalculator\RecipeCalculator.tests\obj\Debug\RecipeCalculator.tests.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\RecipeCalculator\RecipeCalculator.tests\obj\Debug\Recipe Calculator.tests.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\RecipeCalculator\RecipeCalculator.tests\obj\Debug\Recipe Calculator.tests.pdb
+C:\Users\liranda\Downloads\RecipeCalculator-master\RecipeCalculator-master\RecipeCalculator.tests\bin\Debug\Recipe Calculator.tests.dll
+C:\Users\liranda\Downloads\RecipeCalculator-master\RecipeCalculator-master\RecipeCalculator.tests\bin\Debug\Recipe Calculator.tests.pdb
+C:\Users\liranda\Downloads\RecipeCalculator-master\RecipeCalculator-master\RecipeCalculator.tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\liranda\Downloads\RecipeCalculator-master\RecipeCalculator-master\RecipeCalculator.tests\bin\Debug\Recipe Calculator.exe
+C:\Users\liranda\Downloads\RecipeCalculator-master\RecipeCalculator-master\RecipeCalculator.tests\bin\Debug\Recipe Calculator.pdb
+C:\Users\liranda\Downloads\RecipeCalculator-master\RecipeCalculator-master\RecipeCalculator.tests\obj\Debug\RecipeCalculator.tests.csprojResolveAssemblyReference.cache
+C:\Users\liranda\Downloads\RecipeCalculator-master\RecipeCalculator-master\RecipeCalculator.tests\obj\Debug\Recipe Calculator.tests.dll
+C:\Users\liranda\Downloads\RecipeCalculator-master\RecipeCalculator-master\RecipeCalculator.tests\obj\Debug\Recipe Calculator.tests.pdb

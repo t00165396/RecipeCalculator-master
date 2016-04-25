@@ -1,0 +1,14 @@
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator\bin\Debug\Recipe Calculator.exe.config
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator\bin\Debug\Recipe Calculator.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator\bin\Debug\Recipe Calculator.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator\obj\Debug\Recipe Calculator.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator\obj\Debug\Recipe Calculator.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\RecipeCalculator\RecipeCalculator\bin\Debug\Recipe Calculator.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\RecipeCalculator\RecipeCalculator\obj\Debug\Recipe Calculator.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\RecipeCalculator\RecipeCalculator\obj\Debug\Recipe Calculator.pdb
+C:\Users\liranda\Downloads\RecipeCalculator-master\RecipeCalculator-master\RecipeCalculator\bin\Debug\Recipe Calculator.exe.config
+C:\Users\liranda\Downloads\RecipeCalculator-master\RecipeCalculator-master\RecipeCalculator\obj\Debug\Recipe Calculator.exe
+C:\Users\liranda\Downloads\RecipeCalculator-master\RecipeCalculator-master\RecipeCalculator\obj\Debug\Recipe Calculator.pdb
+C:\Users\liranda\Downloads\RecipeCalculator-master\RecipeCalculator-master\RecipeCalculator\bin\Debug\Recipe Calculator.exe
+C:\Users\liranda\Downloads\RecipeCalculator-master\RecipeCalculator-master\RecipeCalculator\bin\Debug\Recipe Calculator.pdb
+C:\Users\liranda\Downloads\RecipeCalculator-master\RecipeCalculator-master\RecipeCalculator\obj\Debug\RecipeCalculator.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator\bin\Debug\Recipe Calculator.exe.config
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator\bin\Debug\Recipe Calculator.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator\bin\Debug\Recipe Calculator.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator\obj\Debug\Recipe Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator\obj\Debug\Recipe Calculator.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\Recipe Calculator\Recipe Calculator\obj\Debug\Recipe Calculator.pdb
